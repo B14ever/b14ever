@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Natnail Getachew!  
+🚀 **Full Stack Developer | Mobile & Web Enthusiast**  
 
-<!--
-**B14ever/b14ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 About Me  
+I'm a passionate **Full Stack Developer** with a **Computer Engineering** background, specializing in **high-performance, user-centric web and mobile applications**.  
+I thrive in building seamless backend integrations with **visually engaging UIs** and **smooth animations**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Key Technologies:**  
+- **Frontend:** React.js, Next.js, React Native, Flutter, Tailwind CSS, Ant Design  
+- **Backend:** Node.js, Express.js, MongoDB, MySQL  
+- **Other:** TypeScript, Redux, Zod, Bloc, ObjectBox  
+
+🌍 I love collaborating on projects that **improve user experience** and **solve real-world problems**!  
+
+🚀 Open to collaborations and exciting opportunities!  
