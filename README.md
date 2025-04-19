@@ -4,7 +4,7 @@
 ---
 
 ## 🛠 About Me  
-I'm a passionate **Full Stack Developer** specializing in **high-performance, user-centric web and mobile applications**.  
+I'm a passionate **Full Stack Developer** experienced on building  **high-performance, user-centric web and mobile applications**.  
 I thrive in building seamless backend integrations with **visually engaging UIs** and **smooth animations**.  
 
 ✨ **Key Technologies:**  
