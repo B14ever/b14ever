@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-green?style=flat" alt="Website" />
   </a>
 </p>
+
 ---
 
 ### ✨ About Me
@@ -23,14 +24,6 @@
 🤖 Integrating **AI agents** & creating Telegram Bots  
 🎨 Crafting beautiful, user-centric interfaces & animations  
 ❤️ Turning cool ideas into digital experiences
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=b14ever&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=12"/>
-</p>
 
 ---
 
@@ -83,11 +76,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=B14ever&theme=highcontrast" />
   <img src="https://github-readme-stats.vercel.app/api?username=B14ever&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B14ever&theme=highcontrast" />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=B14ever&theme=dracula" />
 </p>
 
