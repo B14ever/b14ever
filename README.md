@@ -29,7 +29,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B14ever&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=b14ever&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=12"/>
 </p>
 
 ---
