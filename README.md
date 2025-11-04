@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Natnail Getachew</h1>
 <h3 align="center">Full-Stack Developer | AI & Mobile Apps Enthusiast</h3>
 
@@ -18,12 +22,9 @@
 
 ---
 
-### ✨ About Me
-
-🚀 Building high-performance **web & mobile apps**  
-🤖 Integrating **AI agents** & creating Telegram Bots  
-🎨 Crafting beautiful, user-centric interfaces & animations  
-❤️ Turning cool ideas into digital experiences
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7941D&width=450&lines=Building+high-performance+web+%26+mobile+apps;Integrating+AI+agents;+Crafting+beautiful,+user-centric+interfaces;Turning+cool+ideas+into+digital+experiences;Let%E2%80%99s+connect!" />
+</p>
 
 ---
 
