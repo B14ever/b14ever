@@ -82,18 +82,14 @@
 <table>
   <thead>
     <tr>
-      <th>Repository Activity Trends</th>
-      <th>Collaborative Productivity - Last 28 days</th>
+      <th>Repository Activity Trends</th> 
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=951091397&image_size=auto">
-      </td>
-      <td>
-        <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=951091397&image_size=auto">
-      </td>
+      </td> 
     </tr>
   </tbody>
 </table>
