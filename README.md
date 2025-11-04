@@ -76,7 +76,30 @@
 
 ---
 
-## 📊 GitHub Stats & Activity Graph
+## 📈 Repository Activity
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository Activity Trends</th>
+      <th>Collaborative Productivity - Last 28 days</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=951091397&image_size=auto">
+      </td>
+      <td>
+        <img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=951091397&image_size=auto">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B14ever&show_icons=true&theme=radical" />
