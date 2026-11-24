@@ -38,13 +38,6 @@ I build reliable, maintainable apps for real business operations: offline-first 
 | Architecture | Clean Architecture, SOLID, state management, REST API integration |
 | Tools | Git, Firebase, CI/CD |
 
-## GitHub activity
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=B14ever&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B14ever&layout=compact&hide=html,css,scss&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
 ## Contact
 
 - Portfolio: [natnailgetachew.vercel.app](https://natnailgetachew.vercel.app)
