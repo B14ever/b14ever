@@ -1,101 +1,49 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>
+# Natnail Getachew
 
-<h1 align="center">Hi 👋, I'm Natnail Getachew</h1>
-<h3 align="center">Full-Stack Developer | AI & Mobile Apps Enthusiast</h3>
----
+**Full-stack engineer building web and mobile products, with a focus on AI-powered features.**
+Based in Addis Ababa, Ethiopia. Open to remote and collaborative work.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7941D&width=450&lines=Building+high-performance+web+%26+mobile+apps;Integrating+AI+agents;+Crafting+beautiful,+user-centric+interfaces;Turning+cool+ideas+into+digital+experiences;Let%E2%80%99s+connect!" />
-</p>
+I design and ship end-to-end: React/Next.js frontends, Flutter and React Native apps, Node-based APIs, and AI agent integrations that plug into real products.
 
 ---
 
-## 🛠️ My Tech Toolbox
+## What I work on
 
-### <img src="https://img.icons8.com/color/48/000000/web-design.png" width="28"/> Web
+- **Web applications**: performant, accessible React/Next.js interfaces backed by typed Node.js APIs
+- **Mobile apps**: cross-platform apps in Flutter and React Native, with offline-first data (ObjectBox) and Firebase
+- **AI integration**: agent workflows, tool use, and chat interfaces such as Telegram bots, embedded in production apps
+- **Backend and data**: REST services with NestJS/Express on MongoDB and MySQL
+
+## Selected projects
+
+> Replace these with your 3 to 4 strongest repos. Lead with outcomes, not descriptions.
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Project Name**](https://github.com/B14ever/repo) | One line on the problem it solves and the result (users, performance, scale) | Next.js, NestJS, MongoDB |
+| [**Project Name**](https://github.com/B14ever/repo) | One line on the problem it solves and the result | Flutter, Firebase |
+| [**Project Name**](https://github.com/B14ever/repo) | One line on the problem it solves and the result | Node.js, Telegram Bot API, LLM agents |
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| Frontend | TypeScript, React, Next.js, Tailwind CSS, Material UI, Ant Design, Chakra UI |
+| Mobile | Flutter, React Native, Firebase, ObjectBox |
+| Backend | Node.js, NestJS, Express |
+| Data | MongoDB, MySQL |
+| AI | LLM agent integration, tool calling, Telegram bots |
+| Deploy | Vercel, Netlify, AWS Amplify |
+
+## GitHub activity
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AntDesign-0170FE?logo=ant-design&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?logo=mui&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white&style=for-the-badge"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=B14ever&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B14ever&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
-### <img src="https://img.icons8.com/color/48/000000/smartphone-tablet.png" width="28"/> Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ObjectBox-41D41D?logo=objectbox&logoColor=white&style=for-the-badge"/>
-</p>
+## Contact
 
-### <img src="https://img.icons8.com/color/48/000000/server.png" width="28"/> Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge"/>
-</p>
-
-### <img src="https://img.icons8.com/color/48/000000/database.png" width="28"/> Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ObjectBox-41D41D?logo=objectbox&logoColor=white&style=for-the-badge"/>
-</p>
-
-### <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="28"/> AI
-<p>
-  <img src="https://img.shields.io/badge/AI-Agent%20Integration-brightgreen?style=for-the-badge&logo=probot"/>
-  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
-</p>
-
-### <img src="https://img.icons8.com/color/48/000000/cloud.png" width="28"/> Cloud
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white&style=for-the-badge"/>
-</p>
-
----
-
-## 📈 Repository Activity
-
-<table>
-  <thead>
-    <tr>
-      <th>Repository Activity Trends</th> 
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=951091397&image_size=auto">
-      </td> 
-    </tr>
-  </tbody>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B14ever&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B14ever&theme=highcontrast" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=B14ever&theme=dracula" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-- **Email:** natnailgetachew6@gmail.com
-- **LinkedIn:** [natnail-getachew-491221215](https://www.linkedin.com/in/natnail-getachew-491221215)
-- **Website:** [natnailgetachew.com](https://www.natnailgetachew.com)
-
-<!--
-**B14ever/B14ever** is a ✨special✨ repository for fancy profile README's!
--->
+- Website: [natnailgetachew.com](https://www.natnailgetachew.com)
+- LinkedIn: [natnail-getachew](https://www.linkedin.com/in/natnail-getachew-491221215)
+- Email: [natnailgetachew6@gmail.com](mailto:natnailgetachew6@gmail.com)
