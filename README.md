@@ -1,9 +1,9 @@
 # Natnail Getachew
 
-**Flutter engineer building production mobile apps across fintech, logistics, and agriculture.**
-Based in Addis Ababa, Ethiopia. Dart and Flutter first, with React and Next.js for web.
+**Full-Stack & Mobile Developer building production apps across fintech, logistics, and agriculture.**
+Based in Addis Ababa, Ethiopia. Flutter and Dart on mobile, React and Next.js on web.
 
-I build reliable, maintainable apps for real business operations: offline-first Flutter apps for low-connectivity field work, freight and ride-hailing platforms with live GPS tracking, and the web portals that support them.
+I build reliable, maintainable apps for real business operations: offline-first mobile apps for low-connectivity field work, freight and ride-hailing platforms with live GPS tracking, and the web frontends and admin portals that support them.
 
 ---
 
@@ -32,8 +32,7 @@ I build reliable, maintainable apps for real business operations: offline-first 
 
 | Area | Tools |
 |---|---|
-| Mobile (primary) | Dart, Flutter, BLoC, GoRouter, GetIt, Dio, Retrofit, ObjectBox, Firebase |
-| Also | React Native |
+| Mobile | Dart, Flutter, React Native, BLoC, GoRouter, GetIt, Dio, Retrofit, ObjectBox, Firebase |
 | Web | TypeScript, JavaScript, React, Next.js, Ant Design, Tailwind CSS |
 | Architecture | Clean Architecture, SOLID, state management, REST API integration |
 | Tools | Git, Firebase, CI/CD |
