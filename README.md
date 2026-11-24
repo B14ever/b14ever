@@ -41,7 +41,7 @@ I build reliable, maintainable applications for real business operations: offlin
 
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=B14ever&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B14ever&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B14ever&layout=compact&hide=html,css,scss&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
 ## Contact
